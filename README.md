@@ -1,6 +1,6 @@
 # Experiments:
 
-1. Implement and demonstrate the find-s algorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .Csv file.
+1. Implement and demonstrate the find-s algorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .csv file.
 
 2. For a given set of training data examples stored in a .csv file, implement and demonstrate the candidate-elimination algorithm to output a description of the set of all hypotheses consistent with the training examples.
 
